@@ -1,2 +1,2 @@
 # GoL-HAT
-HAT-gruppa i Programutvikling
+HAT-gruppa i Programutvikling (Hussain, Aleksander, Tobias)
