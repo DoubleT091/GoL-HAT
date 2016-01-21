@@ -1,0 +1,7 @@
+Datafelter:
+start/stop-button
+
+Metoder:
+Listener()
+Start()
+Stop()
