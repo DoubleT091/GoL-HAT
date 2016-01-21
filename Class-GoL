@@ -1,1 +1,9 @@
+Datafelter:
 
+
+Metoder:
+start()
+stop()
+run()
+nextGeneration()
+startStopButtonClicked()
