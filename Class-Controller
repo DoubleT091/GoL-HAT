@@ -2,6 +2,6 @@ Datafelter:
 start/stop-button
 
 Metoder:
-Listener()
+Listener() (eventuelt ha et eget listener-interface)
 Start()
 Stop()
